@@ -1,2 +1,2 @@
 # MSiD
-My solutions to MSiD course
+My path to Data science 
